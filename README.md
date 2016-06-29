@@ -1,0 +1,1 @@
+This program is a function that will pull the daily prices from Fidelity.com for mutual funds. Inside the function there is a creation of an excel sheet that can be deleted if not needed. Note that Fidelity updates daily prices no earlier than 2:30pm Pacific time, but usually even later. 
